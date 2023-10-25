@@ -24,3 +24,4 @@ install
 .tmp
 /spark_tutorials/spark_iflytek/msc/res/asr/GrmBuilld/
 tensorflow
+.bak
